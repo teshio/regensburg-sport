@@ -8,7 +8,7 @@ title: global.home
 
 <div class="row justify-content-center mb-3">
   <div class="col-2 text-center">
-    <img src="{{site.baseurl}}/assets/images/logo.jpg" class="img-thumbnail" />
+    <img src="{{ "/assets/images/logo.jpg" | prepend: site.baseurl_root }}" class="img-thumbnail" />
   </div>
 </div>
 <div class="row mb-5">
@@ -28,7 +28,7 @@ title: global.home
 <div class="row mb-3">
   <div class="col-md-4">
     <div class="card" >
-      <img src="assets/images/register.jpg" class="card-img-top" alt="...">
+      <img src="{{ "/assets/images/register.jpg" | prepend: site.baseurl_root }}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Registration</h5>
           <ul>
@@ -47,7 +47,7 @@ title: global.home
   </div>
   <div class="col-md-4">
     <div class="card" >
-      <img src="assets/images/accomodation.jpg" class="card-img-top" alt="...">
+      <img src="{{ "/assets/images/accomodation.jpg" | prepend: site.baseurl_root }}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">{% t 'global.accomodation' %}</h5>
 
@@ -60,7 +60,7 @@ title: global.home
   </div>
   <div class="col-md-4">
     <div class="card" >
-      <img src="assets/images/map.png" class="card-img-top" alt="...">
+      <img src="{{ "/assets/images/map.png" | prepend: site.baseurl_root }}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">{% t 'global.gettingthere' %}</h5>
 
@@ -79,7 +79,7 @@ title: global.home
 
     <div class="row">
       <div class="col-6">
-        <img src="assets/images/sports-main.jpg" class="img-thumbnail" />
+        <img src="{{ "/assets/images/sports-main.jpg" | prepend: site.baseurl_root }}" class="img-thumbnail" />
       </div>
       <div class="col-6">
           {% tf home/programme.md %}
