@@ -1,0 +1,11 @@
+- id: 0
+  name: Football
+  key: global.sport.football
+  icon: fas fas-futbol
+- id: 1
+  name: Volleyball
+  key: global.sport.volleyball
+  icon: fas fas-volleyball-ball
+- id: 2
+  name: Team Challenge
+  key: global.sport.teamchallenge

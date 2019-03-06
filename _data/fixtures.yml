@@ -1,0 +1,19 @@
+- sportId : 0
+  venueId : 0
+  datetime: 2019-06-08 9:00
+
+- sportId : 0
+  venueId : 0
+  datetime: 2019-06-08 11:00
+
+- sportId : 1
+  venueId : 2
+  datetime: 2019-06-08 14:00
+
+- sportId : 0
+  venueId : 1
+  datetime: 2019-06-08 16:00
+  
+- sportId : 2
+  venueId : 2
+  datetime: 2019-06-08 14:50

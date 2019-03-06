@@ -1,0 +1,22 @@
+global:
+  english: English
+  german: German
+  home: Home
+  about: About
+  events: Events
+  accomodation: Accomodation
+  moreinfo: more info
+  gettingthere: Getting there
+  footer:
+    copyright: Copyright ©
+  sport:
+    football: Football
+    volleyball: Volleyball
+    teamchallenge: Team Challenge
+  404: 404 Not found
+
+pages:
+  about: The Regensburg cucumbers invite you to this year's sdWM 2019. We are very glad that you are there!
+  home: The Regensburg cucumbers invite you to this year's sdWM 2019. We are very glad that you are there!
+  accomodation: The youth hostel Regensburg offers simple, inexpensive rooms, directly at the bathing beaches of the Danube!
+  gettingthere: And so you come to our sdWM 2019!

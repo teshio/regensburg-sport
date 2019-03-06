@@ -1,0 +1,22 @@
+global:
+  english: Englisch
+  german: Deutsch
+  home: Home
+  about: Über
+  events: Veranstaltungen
+  accomodation: Übernachten
+  moreinfo: mehr info
+  gettingthere: Anreise
+  footer:
+    copyright: Urheberrechte ©
+  sport:
+    football: Fussball
+    volleyball: Volleyball
+    teamchallenge: Team Challenge
+  404: 404 nicht gefunden
+
+pages:
+  about: Die Regensburger Rudelgurken laden ein zur diesjährigen sdWM 2019. Wir freuen uns sehr, dass du dabei bist!
+  home: Die Regensburger Rudelgurken laden ein zur diesjährigen sdWM 2019. Wir freuen uns sehr, dass du dabei bist!
+  accomodation: Die Jugendherberge Regensburg bietet einfache, kostengünstige Zimmer, direkt an den Badestränden der Donau!
+  gettingthere: Und so kommt ihr zu unserer sdWM 2019!
