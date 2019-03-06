@@ -1,11 +1,11 @@
 ---
 layout: default
 title: global.events
-icon: fas fas-user
 link_key: global.events
 namespace: events
 permalink: /events/
 permalink_de: /Veranstaltungen/
+icon: "fas fa-calendar-alt"
 ---
 
 
